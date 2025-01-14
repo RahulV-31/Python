@@ -1,5 +1,9 @@
 #Student Performance Analysis
+
+
 This project demonstrates basic Python skills such as data manipulation, cleaning, and visualization using libraries like NumPy, pandas, and Seaborn. The dataset includes student attributes such as ID, Name, Subject, Attendance, and Marks, with operations like handling missing values, performing exploratory data analysis (EDA), and creating performance scores based on attendance and marks. Visualizations like histograms, boxplots, and scatter plots help uncover patterns in student performance.
+
+
 
 Skills Demonstrated
 Data cleaning and preprocessing
